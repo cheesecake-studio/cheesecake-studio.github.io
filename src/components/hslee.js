@@ -23,7 +23,7 @@ class Hslee extends Component {
     var info_ = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
         <a href="https://needleworm.github.io/hslee" target="_blank"  rel="noreferrer">
-          <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/needleworm/cheesecake-studio.github.io/src/images/artists/hslee.png" alt="projectimage"/>
+          <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/cheesecake-studio/cheesecake-studio.github.io/src/images/artists/hslee.png" alt="projectimage"/>
         </a>
         <div className="projectText">
           <a href="https://needleworm.github.io/hslee" target="_blank"  rel="noreferrer">
