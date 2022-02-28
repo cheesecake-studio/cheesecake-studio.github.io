@@ -13,7 +13,7 @@ class Gmjeong extends Component {
     return(
       <div className="row">
         <div className="col-lg-12 text-center">
-            <h2 className="section-heading subpageHeading">Author, Calumnist</h2>
+            <h2 className="section-heading subpageHeading">Designer</h2>
         </div>
       </div>
     )
@@ -23,36 +23,30 @@ class Gmjeong extends Component {
     var info_ = <div className="singleLectureContainer">
       <div className="singleWebsiteCard">
         <a href="https://needleworm.github.io" target="_blank"  rel="noreferrer">
-          <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/needleworm/cheesecake-studio.github.io/src/images/artists/gmjoeng.jpg" alt="projectimage"/>
+          <img className="websiteImage" src="https://cdn.jsdelivr.net/gh/needleworm/cheesecake-studio.github.io/src/images/artists/gmjeong.png" alt="projectimage"/>
         </a>
         <div className="projectText">
           <a href="https://needleworm.github.io" target="_blank"  rel="noreferrer">
-            <p><h5>반병현 (Byunghyun Ban)</h5></p>
+            <p><h5>정규민 (Gyumin Jeong) <i class="fas fa-external-link-alt"></i></h5> </p>
           </a>
           <p className="bookDescription">
-            <strong>Style</strong><br/>
-            - 정부검열로 작품을 파괴당한 적이 있습니다.<br/>
-            - 날것 그대로의 감정을 다듬어지지 않은 문장으로 구현합니다.<br/>
-            - 비문학과 문학의 경계에 대한 의문을 던집니다. 아름다움을 느낄 수 있는 작품이 정보전달력을 갖추었다는 이유만으로 비문학으로 분류되는 것에 대한 반발심을 작품에 투영합니다.
+            <strong>Introduction</strong><br/>
+            - 아직은 다듬어지고 싶지 않은, 그러면서도 쉽게 흩어져 버리지 않고 싶은. 많은 것을 경험하고, 이해하며, 더욱 다채로운 색으로 물들어가고 싶은 디자이너 정규민 입니다.
           </p><hr className="ln"/><br/>
 
           <p className="bookDescription">
-            <strong>기고</strong><br/>
-            - 고교독서평설 (지학사, 2022년도 연재분)<br/>
-            - 마이크로소프트웨어 (IT조선)<br/>
-            - POKAS ON
+            <strong>Experience</strong><br/>
+            - Frankfurt Ambiente 전시 참여 (SPEXTRUM), 2019<br/>
+            - pureLONDON fashion show 전시 참여 (SPEXTRUM), 2019<br/>
+            - 蛙小侠品牌简介 The Kungfu Froggy 굿즈 디자인, 2108<br/>
+            - K-ECO 대한민국 친환경대전 전시 참여, 2017<br/>
           </p><hr className="ln"/><br/>
 
           <p className="bookDescription">
-            <strong>집필</strong><br/>
-            - 6개월치 업무를 하루 만에 끝내는 업무 자동화 (생능출판사, 2020)<br/>
-            - 공학자의 오경묵상 (부크크, 2020)<br/>
-            - 공학자의 지혜묵상 (부크크, 2020)<br/>
-            - 나는 아직 잊힐 준비가 되지 않았어요 (부크크, 2020)<br/>
-            - 실전 민사소송법 (부크크, 2020)<br/>
-            - 코딩하는 공익 (세창미디어, 2020)<br/>
-            - 법대로 합시다 (지식과감성#, 2016)<br/>
-            - 카이스트 공부벌레들 (살림FRIENDS, 2012)
+            <strong>Publication</strong><br/>
+              - Cheesecake Vol.1 (봄 여름 가을 겨울 그리고 봄) (부크크, 2021)<br/>
+              - 실전 민사소송법 (부크크, 2020) (표지 디자인)<br/>
+              - 법대로 합시다 (지식과감성#, 2016) (표지 디자인)<br/>
           </p><hr className="ln"/><br/>
           </div>
         </div>

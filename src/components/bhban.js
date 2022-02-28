@@ -27,12 +27,10 @@ class Bhban extends Component {
         </a>
         <div className="projectText">
           <a href="https://needleworm.github.io" target="_blank"  rel="noreferrer">
-            <p><h5>반병현 (Byunghyun Ban)</h5></p>
+            <p><h5>반병현 (Byunghyun Ban) <i class="fas fa-external-link-alt"></i></h5></p>
           </a>
           <p className="bookDescription">
             <strong>Style</strong><br/>
-            - 정부검열로 작품을 파괴당한 적이 있습니다.<br/>
-            - 날것 그대로의 감정을 다듬어지지 않은 문장으로 구현합니다.<br/>
             - 비문학과 문학의 경계에 대한 의문을 던집니다. 아름다움을 느낄 수 있는 작품이 정보전달력을 갖추었다는 이유만으로 비문학으로 분류되는 것에 대한 반발심을 작품에 투영합니다.
           </p><hr className="ln"/><br/>
 

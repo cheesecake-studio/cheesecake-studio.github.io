@@ -27,7 +27,7 @@ class Hslee extends Component {
         </a>
         <div className="projectText">
           <a href="https://needleworm.github.io/hslee" target="_blank"  rel="noreferrer">
-            <p><h5>이효석 (Hyoseok Lee)</h5></p>
+            <p><h5>이효석 (Hyoseok Lee) <i class="fas fa-external-link-alt"></i></h5></p>
           </a>
           <p className="bookDescription">
             <strong>Comment</strong><br/>

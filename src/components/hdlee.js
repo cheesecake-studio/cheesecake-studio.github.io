@@ -27,12 +27,18 @@ class Hdlee extends Component {
         </a>
         <div className="projectText">
           <a href="https://needleworm.github.io/hyundo" target="_blank"  rel="noreferrer">
-            <p><h5>이현도 (Hyundo Lee)</h5></p>
+            <p><h5>이현도 (Hyundo Lee) <i class="fas fa-external-link-alt"></i></h5></p>
           </a>
           <p className="bookDescription">
             <strong>Style</strong><br/>
             - 차갑고 삭막한 대상을 따뜻한 눈길로 바라보려 노력합니다.
+          </p><hr className="ln"/><br/>
+
+          <p className="bookDescription">
+          <strong>Publication</strong><br/>
+              - 법대로 합시다 (지식과감성#, 2016)
           </p>
+
           </div>
         </div>
       </div>
