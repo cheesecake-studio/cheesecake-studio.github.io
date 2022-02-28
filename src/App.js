@@ -130,7 +130,7 @@ class App extends Component {
           }.bind(this)
         }
       >
-        <i className="fas fa-book"></i>&nbsp;Byunghyun Ban
+        <i className="fas fa-book"></i>&nbsp;BH Ban
       </a>
     </li>
 
@@ -162,7 +162,7 @@ class App extends Component {
           }.bind(this)
         }
       >
-        <i className="fas fa-book"></i>&nbsp;Gyumin Jeong
+        <i className="fas fa-book"></i>&nbsp;GM Jeong
       </a>
     </li>
 
@@ -194,7 +194,7 @@ class App extends Component {
           }.bind(this)
         }
       >
-        <i className="fas fa-book"></i>&nbsp;Hyundo Lee
+        <i className="fas fa-book"></i>&nbsp;HD Lee
       </a>
     </li>
 
@@ -226,7 +226,7 @@ class App extends Component {
           }.bind(this)
         }
       >
-        <i className="fas fa-book"></i>&nbsp;Hyoseok Lee
+        <i className="fas fa-book"></i>&nbsp;HS Lee
       </a>
     </li>
 
