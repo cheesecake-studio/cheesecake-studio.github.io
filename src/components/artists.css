@@ -1,5 +1,17 @@
-.singleLectureContainer .websiteImage 
-{max-height:600px; max-width:1200}
+
+.websiteImage
+{
+    width:20vw;
+    display:block;
+    box-shadow:1px 1px 1px 1px gray;
+    border-radius:10px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:50px;
+    min-width:200px; 
+    max-height:40vw;
+}
+
 
  .singleLectureContainer
 {width:90%;margin-left:auto;margin-right:auto;margin-bottom:100px}
