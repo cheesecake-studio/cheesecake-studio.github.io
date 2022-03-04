@@ -77,7 +77,7 @@ class Bhban extends Component {
 
   render() {
     return (
-      <section id="lectures" className="animated bounceInDown">
+      <section id="bhban" className="animated bounceInDown">
           {this.sectionTitle()}
           {this.drawLectures()}
       </section>

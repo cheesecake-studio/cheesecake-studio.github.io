@@ -78,7 +78,7 @@ class Hslee extends Component {
 
   render() {
     return (
-      <section id="lectures" className="animated bounceInDown">
+      <section id="hslee" className="animated bounceInDown">
           {this.sectionTitle()}
           {this.drawLectures()}
       </section>

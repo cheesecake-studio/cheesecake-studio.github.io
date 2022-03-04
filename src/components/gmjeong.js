@@ -62,7 +62,7 @@ class Gmjeong extends Component {
 
   render() {
     return (
-      <section id="lectures" className="animated bounceInDown">
+      <section id="gmjeong" className="animated bounceInDown">
           {this.sectionTitle()}
           {this.drawLectures()}
       </section>
